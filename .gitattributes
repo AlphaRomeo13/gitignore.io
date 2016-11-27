@@ -15,3 +15,7 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+<<<<<<< HEAD
+=======
+git filter=lfs diff=lfs merge=lfs -text
+>>>>>>> fb2ca6a9c3ed3e7cade65ce5e59dddc5816b2fb6
